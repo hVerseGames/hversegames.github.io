@@ -1,0 +1,54 @@
+.bg-custom {
+    height: 100%;
+    width: 100%;
+    background-position: top-center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -999;
+}
+.bg-custom-01 {
+    background-image: url("../img/bg/bg01.png");
+}
+.bg-custom-02 {
+    background-image: url("../img/bg/bg02.png");
+}
+.bg-custom-03 {
+    background-image: url("../img/bg/bg03.png");
+}
+.bg-custom-04 {
+    background-image: url("../img/bg/bg04.png");
+}
+.bg-custom-05 {
+    background-image: url("../img/bg/bg05.png");
+}
+.bg-custom-06 {
+    background-image: url("../img/bg/bg06.png");
+}
+.bg-custom-07 {
+    background-image: url("../img/bg/bg07.png");
+}
+.bg-custom-08 {
+    background-image: url("../img/bg/bg08.png");
+}
+.bg-custom-09 {
+    background-image: url("../img/bg/bg09.png");
+}
+.bg-custom-10 {
+    background-image: url("../img/bg/bg10.png");
+}
+.bg-custom-11 {
+    background-image: url("../img/bg/bg11.png");
+}
+.bg-custom-12 {
+    background-image: url("../img/bg/bg12.png");
+}
+
+.homepage-panel {
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgba(255,255,255,0.75);
+    border: 2px solid black;
+}
